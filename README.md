@@ -9,6 +9,7 @@ Fonte: https://getbootstrap.com/docs/4.0/examples/album/
 - **Título:** Analista de Sistemas em Formação  
 - **Contato:** gedsonleandro@hotmail.com • (27) 99901-0164  
 - **GitHub:** https://github.com/Gedson-Leandro
+- **Meu portfolio:** https://gedson-3052.github.io/portfolio-/
 
 ## Customizações realizadas
 - Mantida a estrutura responsiva original do template "Album".
